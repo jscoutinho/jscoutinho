@@ -1,5 +1,9 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ffff&size=30&center=true&vCenter=true&width=1000&lines=Wellcome+to+my+profile!+ʕ•́ᴥ•̀ʔっ)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="img/gatinhos.gif.gif">
+</p>
+
 <div align="center">  
   
 
