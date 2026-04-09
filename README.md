@@ -1,11 +1,15 @@
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ffff&size=30&center=true&vCenter=true&width=1000&lines=Wellcome+to+my+profile!+ʕ•́ᴥ•̀ʔっ)](https://git.io/typing-svg)
+# <p align="center" style="color: #234857;"> João Coutinho </p>
+
+<div align="center"> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=234857&center=true&vCenter=true&width=550&lines=Wellcome+to+my+profile!+%CA%95%E2%80%A2%CC%81%E1%B4%A5%E2%80%A2%CC%80%CA%94%E3%81%A3)](https://git.io/typing-svg)
+</div>
 
 <p align="center">
-  <img src="img/gatinhos.gif">
+  <img src="img/gatinhos.gif" width="450px">
 </p>
 
 <div align="center">  
-  
 
  
  ### Main skills:
