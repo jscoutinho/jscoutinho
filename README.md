@@ -36,7 +36,7 @@
 ### # Main Projects
 
 <a href="https://github.com/jscoutinho/lucyd-dreams">**Lucyd Dreams** </a>
-<p>Game Development project built with Godot.</p>p>
+<p>Game Development project built with Godot.</p>
 
 
 <picture align="center">
